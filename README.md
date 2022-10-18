@@ -1,7 +1,7 @@
 <p align="left">
   <br>
   <samp>
-     Hi there. I am a Data Scientist from Real World Evidence Unit, Leicester Diabetes Center, UK. 
+     Hi there. I am a Data Scientist from Real World Evidence Unit, Leicester Diabetes Centre, UK. 
     <br> I am passionate about data analysis, visualization and machine learning algorithms.
     <br><br> 🔭 I’m currently working on publicly available Healthcare Datasets (Electronic Health Records) and creating personal projects
     <br>🌱 I’m currently learning Data Structures and Algorithms, Flask and Model Deployment
